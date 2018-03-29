@@ -9,6 +9,7 @@ Simple Todo App with the new Context Api from React 16.3.
 - [ ] Should Delete Todos
 - [ ] Should show as completed in ui
 - [ ] This README should show stack
+- [ ] Tests (?)
 
 
 
